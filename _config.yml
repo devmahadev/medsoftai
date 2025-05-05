@@ -1,0 +1,61 @@
+url: https://devmahadev.github.io/medsoftai
+baseurl: 
+
+# Site settings
+title: MedSoftAi
+email: deepak.hirenwal@gmail.com
+description: "As a strong partner for accelerating your innovation, we help businesses maximize value delivery and ensure sustainability with software engineering services for healthcare, IoT, and other domains. We not only design and deliver high-quality, stable, scalable, and functional digital products but also share the valuable and wide-ranging knowledge of our talented developers."
+
+
+# Team names, titles and social links
+people:
+- name: Dr. Deepak Hirenwal
+  pic: 1
+  position: XXX
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Arpit Mishra
+  pic: 2
+  position: XXX
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Dr. Abhinav Dhami
+  pic: 3
+  position: XXX
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: 
+  - title: github
+    url: 
+
+# Postal address (add as many lines as necessary)
+MedSoftAi's Offices:
+  - line: Amsterdam, Netherlands
+  - line: Ludhiana, India
+  - line: Gurugram, India
+
